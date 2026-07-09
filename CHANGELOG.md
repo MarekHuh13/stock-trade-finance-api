@@ -30,3 +30,4 @@
 - fix: clarify the setup steps
 - fix: link the usage section
 - fix: clarify the setup steps
+- chore: add a note about the defaults
